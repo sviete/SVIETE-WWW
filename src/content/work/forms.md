@@ -1,5 +1,5 @@
 ---
-title: Oracle Forms
+title: Oracle Forms Developer
 publishDate: 2019-12-01 00:00:00
 img: /assets/forms.jpg
 img_alt: Oracle Forms

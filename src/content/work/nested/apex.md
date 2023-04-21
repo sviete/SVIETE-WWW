@@ -1,6 +1,6 @@
 ---
-title: Oracle APEX
-publishDate: 2020-03-02 00:00:00
+title: Oracle APEX Expert
+publishDate: 2020-03-05 00:00:00
 img: /assets/apex.jpeg
 img_alt: Oracle Application Express Developer Certified Expert
 description: |

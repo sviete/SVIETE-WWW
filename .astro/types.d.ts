@@ -102,13 +102,6 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"work": {
-"apex.md": {
-  id: "apex.md",
-  slug: "apex",
-  body: string,
-  collection: "work",
-  data: InferEntrySchema<"work">
-} & { render(): Render[".md"] },
 "forms.md": {
   id: "forms.md",
   slug: "forms",
@@ -123,9 +116,9 @@ declare module 'astro:content' {
   collection: "work",
   data: InferEntrySchema<"work">
 } & { render(): Render[".md"] },
-"nested/soa.md": {
-  id: "nested/soa.md",
-  slug: "nested/soa",
+"nested/apex.md": {
+  id: "nested/apex.md",
+  slug: "nested/apex",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">
@@ -133,6 +126,13 @@ declare module 'astro:content' {
 "plsql.md": {
   id: "plsql.md",
   slug: "plsql",
+  body: string,
+  collection: "work",
+  data: InferEntrySchema<"work">
+} & { render(): Render[".md"] },
+"soa.md": {
+  id: "soa.md",
+  slug: "soa",
   body: string,
   collection: "work",
   data: InferEntrySchema<"work">
